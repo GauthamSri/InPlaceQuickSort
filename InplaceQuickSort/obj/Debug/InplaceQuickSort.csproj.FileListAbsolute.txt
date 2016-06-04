@@ -1,0 +1,6 @@
+c:\users\gautham\documents\visual studio 2012\Projects\InplaceQuickSort\InplaceQuickSort\bin\Debug\InplaceQuickSort.exe.config
+c:\users\gautham\documents\visual studio 2012\Projects\InplaceQuickSort\InplaceQuickSort\obj\Debug\InplaceQuickSort.csprojResolveAssemblyReference.cache
+c:\users\gautham\documents\visual studio 2012\Projects\InplaceQuickSort\InplaceQuickSort\bin\Debug\InplaceQuickSort.exe
+c:\users\gautham\documents\visual studio 2012\Projects\InplaceQuickSort\InplaceQuickSort\bin\Debug\InplaceQuickSort.pdb
+c:\users\gautham\documents\visual studio 2012\Projects\InplaceQuickSort\InplaceQuickSort\obj\Debug\InplaceQuickSort.exe
+c:\users\gautham\documents\visual studio 2012\Projects\InplaceQuickSort\InplaceQuickSort\obj\Debug\InplaceQuickSort.pdb
